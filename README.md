@@ -1,2 +1,2 @@
 # LeetCode
-All the work done using LeetCode in an attempt to enhance my programming skills
+All the work done using LeetCode Web Service in an attempt to enhance my programming skills.
